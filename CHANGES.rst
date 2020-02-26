@@ -17,6 +17,11 @@ Reference Files
 Fix bug in downloader that was preventing NIRISS darks from being downloaded (#450)
 
 
+UNRELEASED:
+===========
+Lajoie implemented an optional telescope boresight offset and fixed the tilt scaling issue seen between SW and LW data when using segment_psfs.
+
+
 1.3.2
 =====
 
